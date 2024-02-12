@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @HedgieLovesCoding
-- 👀 I’m interested in everything anime, books, cooking, drones & video games!
-- 🌱 I’m currently learning Web Development on LeWagon!
-- 📫 Reach me on Discord as chichi#5697
+- 👋 Hi, I’m @deizlan
+- 👀 I’m interested in everything gym, anime, books & sports here and there. In my exploration phase!
+- 🌱 Learned Fullstack Web Developemnt in NEXT Academy. Currently studying in Taylor's University!
+- 📫 Reach me on Discord as .tls123
 
 <!---
 HedgieLovesCoding/HedgieLovesCoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
