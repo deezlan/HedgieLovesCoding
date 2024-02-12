@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deizlan
+- 👋 Hi, I’m @deezlan
 - 👀 I’m interested in everything gym, anime, books & sports here and there. In my exploration phase!
 - 🌱 Learned Fullstack Web Developemnt in NEXT Academy. Currently studying in Taylor's University!
 - 📫 Reach me on Discord as .tls123
